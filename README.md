@@ -1,6 +1,8 @@
 # 🏎️ F1 Racing Landing Page
 
-demo - (https://yashraj0103.github.io/Landing-page/)[click here]
+🚀Live demo : [click here](https://yashraj0103.github.io/Landing-page/)
+
+
 This is a modern and interactive **landing page** dedicated to **Formula 1 Racing**, created using **HTML**, **CSS**, and **JavaScript**. The page is designed to capture the thrill and excitement of Formula 1, while providing an engaging user experience with smooth transitions and responsive design.
 
 ---
